@@ -1,0 +1,4 @@
+Entra na pasta dev e altere o arquivo conexao.php 
+para a conexao com o banco de dados aonde tem #
+
+@coyotte1171
